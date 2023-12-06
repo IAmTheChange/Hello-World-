@@ -14,6 +14,8 @@ Learning how to use GitHub.
 3. Pears
    
 -carrots
+
 -pepper
+
 -zucchini
 
